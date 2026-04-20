@@ -26,3 +26,8 @@ Amphithéatre du bâtiment T (PNRV) campus de villejean
 - Pour venir en métro prendre la ligne A et descence à l'arrêt Villejean Université
 - Evénement ouvert à tous sans inscription
 - Buffet et pot de convivialité offert 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mastersigat/Journee_SIGAT/main/Affiches/Plan.png" alt="Affiche 2026" width="400"/><br>
+  <em>Affiche 2026</em>
+</p>
