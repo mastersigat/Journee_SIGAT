@@ -13,6 +13,13 @@ Lors de la journée géomatique du master SIGAT, chaque atelier donne lieu à un
 # Programme 2026
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mastersigat/Journee_SIGAT/main/Affiches/Horaires.png" alt="Affiche 2026" width="600"/><br>
+  <em>Affiche 2026</em>
+</p>
+
+
+
 # Informations pratiques
 
 Amphithéatre du bâtiment T (PNRV) campus de villejean
