@@ -6,6 +6,6 @@ Lors de la journée géomatique du master SIGAT, chaque atelier donne lieu à un
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mastersigat/Journee_SIGAT/main/Affiches/Affiche2026.jpg" alt="Affiche 2026" width="800"/><br>
+  <img src="https://raw.githubusercontent.com/mastersigat/Journee_SIGAT/main/Affiches/Affiche2026.jpg" alt="Affiche 2026" width="1000"/><br>
   <em>Affiche 2026</em>
 </p>
